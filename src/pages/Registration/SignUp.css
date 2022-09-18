@@ -1,0 +1,28 @@
+.register{
+    margin-left: 220%;
+}
+
+.button{
+    margin: 3% 5% 20% 45%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.error{
+    color: red;
+}
+
+form img{
+    width: 150px;
+    height: 100px;
+    margin-left: 25%;
+    padding-right: 10%;
+    margin-bottom: 2%;
+    display: flex;
+}
+
+.login{
+    margin-bottom: 25%;
+    background-color: azure;
+}

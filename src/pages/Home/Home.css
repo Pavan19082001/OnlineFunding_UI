@@ -1,0 +1,35 @@
+body{
+    height: 250vh;
+}
+
+.texts{
+    margin: 1% 40% 2% 45%;
+    display: flex;
+}
+
+.fundraise{
+    float: right;
+}
+
+.seeposts{
+    width: 5;
+    margin-left: 40%;
+    margin-top: 3px;
+    margin-bottom: 25px;
+}
+
+.card:hover{
+    opacity: initial;
+    background-color: aliceblue;
+}
+
+.posts{
+    display: flex;
+    margin-bottom: 25%;
+}
+
+.posts-data{
+    margin-left: 10%;
+    height: 50vh;
+    display: flex;
+}
