@@ -63,7 +63,7 @@ const Login = () =>{
                   </div>
               <div className="modal-footer">
                 <button type="submit" className="btn btn-secondary" onClick={handleSubmit}>
-                  <a href="/posts">Login</a>
+                  <a href='/posts' alt='posts'>Login</a>
                 </button>
               </div>
              </div>

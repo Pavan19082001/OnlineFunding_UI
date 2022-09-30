@@ -18,7 +18,7 @@ function Navbar() {
                 <Link to={"/"}>
                   <li className='plist'><i className='fa fa-home mr-4'> Home </i></li>
                 </Link>
-                <Link to={"/register"}>
+                <Link to={"/signup"}>
                   <li className='plist mr-4'><i className="fa fa-registered"> Sign Up </i></li>
                 </Link>
                 <Link to={"/contactus"}>

@@ -38,7 +38,7 @@ function Home() {
                <div className='card-text'>
                   <span>To start &nbsp; <strong>FUNDRAISING</strong>, </span>
                <div className='card-title'>
-                  {isLogged ? <a href='/posts' alt='posts'>CLICK HERE</a> : <a href='/login' alt='login'>CLICK HERE</a>}
+                  {isLogged ? <a href='/posts' alt='posts'>CLICK HERE</a> : <a href='/signup' alt='login'>CLICK HERE</a>}
                </div>
                </div>
                </div>  
